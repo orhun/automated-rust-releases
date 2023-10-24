@@ -1,4 +1,4 @@
-## Automated Rust Releases
+## Automated Rust Releases 🦀
 
 This repository contains the configuration files for fully automating Rust releases via utilizing the following tools:
 
