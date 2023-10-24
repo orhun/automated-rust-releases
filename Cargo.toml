@@ -1,6 +1,6 @@
 [package]
 name = "automated-rust-releases"
-version = "0.1.1"
+version = "0.1.2"
 description = "https://blog.orhun.dev/automated-rust-releases"
 repository = "https://github.com/orhun/automated-rust-releases"
 license = "MIT"
